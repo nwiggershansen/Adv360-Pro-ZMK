@@ -7,7 +7,8 @@
     "keypad",
     "fn",
     "mod",
-    "Programming"
+    "Programming",
+    "Programmers Dvorak"
   ],
   "layers": [
     [
@@ -40,6 +41,12 @@
                "&trans", "&trans", "&kp LBKT", "&kp RBKT", "&kp LEFT_PARENTHESIS", "&kp RIGHT_PARENTHESIS",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",   "&trans",   "&trans", "&trans",
        "&kp LEFT_SHIFT", "&trans",   "&trans",   "&trans",               "&trans",                "&trans",                               "&trans",                     "&trans",                     "&trans", "&trans", "&trans",   "&trans",   "&trans", "&trans",
                "&trans", "&trans",   "&trans",   "&trans",               "&trans",                                    "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans",   "&trans",   "&trans", "&trans"
+    ], [
+       "&trans",        "&trans",    "&trans",  "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",        "&trans",
+       "&trans", "&kp SEMICOLON", "&kp COMMA", "&kp DOT",  "&kp P",  "&kp Y",           "&trans",                                                             "&trans",  "&kp F",  "&kp G",  "&kp C",     "&kp R",  "&kp L", "&kp BACKSLASH",
+       "&trans",         "&kp A",     "&kp O",   "&kp E",  "&kp U",  "&kp I",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",  "&kp D",  "&kp H",  "&kp T",     "&kp N",  "&kp S",     "&kp MINUS",
+       "&trans",       "&kp SQT",     "&kp Q",   "&kp J",  "&kp K",  "&kp X",                               "&trans",                     "&trans",                      "&kp B",  "&kp M",  "&kp W",     "&kp V",  "&kp Z",        "&trans",
+       "&trans",        "&trans",    "&trans",  "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&kp SLASH", "&trans",        "&trans"
     ]
   ]
 }

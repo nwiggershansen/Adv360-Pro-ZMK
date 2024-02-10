@@ -110,5 +110,13 @@
 			"code"
 		],
 		"type": "UD"
+	},
+	{
+		"code": "&dvp_at_caret",
+		"name": "&dvp_at_caret",
+		"params": [
+			"code"
+		],
+		"type": "UD"
 	}
 ]
